@@ -8,6 +8,6 @@
 * [x] Criar controller para Department
 * [x] Criar Views via scaffolding
 * [x] Criar Controller para Sellers
-* [ ] Criar Views CRUD para Seller
+* [x] Criar Views CRUD para Seller
 * [x] Criar SellerServices
 * [x] Criar SeedingService
