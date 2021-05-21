@@ -21,6 +21,7 @@ namespace SalesWebMvc.Models
         [DisplayName("Departamento")]
         public Department Department { get; set; }
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
+        public int DepartmentId { get; set; }
 
         public Seller()
         {
